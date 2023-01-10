@@ -1,0 +1,1 @@
+# type-hqs-api
